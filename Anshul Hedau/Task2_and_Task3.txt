@@ -52,3 +52,7 @@ Q. 4) why is git diff is used?
    It compares the commited file with the file in staged area.
 Q. 5) Can we leave the commit messages as blank?
 --Yes,it can be done by using  ( git commit -a --allow-empty-message -m "")
+
+
+************** This is a working branch ******************************
+I learnt how to create a new branch.
